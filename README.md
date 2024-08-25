@@ -60,3 +60,12 @@ This is a Flutter application that displays weather information based on the use
 
    ```bash
    flutter run
+### Prerequisites
+   ![Screenshot of the application](assets/screenshots/3.jpg)
+   ![Screenshot of the application](assets/screenshots/4.jpg)
+   ![Screenshot of the application](assets/screenshots/2.jpg)
+   ![Screenshot of the application](assets/screenshots/1.jpg)
+  
+  
+  
+
